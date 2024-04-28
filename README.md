@@ -1,4 +1,4 @@
-# Musical-instrument-project
+# Musical-Instrument-Project
 
 ## Project Overview
 As part of the school Fablab program, I embarked on a project to create a musical instrument capable of producing five distinct notes. The primary goal was to design and build an electronic instrument using basic components and Arduino technology, enhancing my understanding of electronics, programming, and sound theory.
