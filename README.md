@@ -1,6 +1,27 @@
 # Musical-instrument-project
-A part of school Fablab program
 
-This is a project which I done in my school Fablab Program. My purpose for this task is to create a musical instrument with five different nodes. In order to complete this program, I first built the Ardunio mainboard using CPUs, resistors and capacitors. Welding machine was used to finish this task. Then I used wires, buttons and a buzzer to build the complete curcuit. In order to produce the standard nodes using the buzzer, I did some researches online about the frequency of each nodes. I wrote the code using in the Arduino mainboard later with the data I found during my research.
+## Project Overview
+As part of the school Fablab program, I embarked on a project to create a musical instrument capable of producing five distinct notes. The primary goal was to design and build an electronic instrument using basic components and Arduino technology, enhancing my understanding of electronics, programming, and sound theory.
 
-In order to further improve my musical instrument, I added two more buttons into my equipment. I also changed the code using in the Arduino mainboard which enables the instrument to change its nodes into three different ranges. This improvement makes my musical instrument able to produce 15 nodes instead of 5 nodes. In order to make the instrument better, I should add more buzzers into the circuit in the future which can help it produce different nodes at the same time.
+## Development Process
+### Building the Arduino Mainboard
+- **Components Used:** CPUs, resistors, and capacitors were the main components.
+- **Assembly:** The components were assembled on the Arduino mainboard.
+- **Soldering:** A welding machine was utilized to securely solder the components, ensuring robust connections.
+
+### Creating the Circuit
+- **Components:** The circuit was built using wires, buttons, and a buzzer.
+- **Functionality:** The buttons were used to control the notes played by the buzzer.
+
+### Programming the Arduino
+- **Research:** I conducted online research to find the correct frequencies for each of the five notes.
+- **Coding:** Using the Arduino IDE, I programmed the mainboard with the frequencies to control the buzzer’s output.
+
+## Enhancements
+To further improve the instrument, I made several upgrades:
+- **Additional Buttons:** Added two more buttons to increase the musical range.
+- **Advanced Programming:** Modified the Arduino code to enable the instrument to switch among three different note ranges, effectively allowing the instrument to produce 15 different notes.
+
+## Future Improvements
+- **Multiple Buzzers:** To enrich the sound quality and complexity, adding more buzzers to the circuit will enable simultaneous production of different notes.
+- **Complex Sound Patterns:** Incorporate more complex sound patterns and possibly programmable music sequences.
